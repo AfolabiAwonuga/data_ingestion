@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: sheets_tran
+    tables:
+      - name: data_customer
+      - name: data_delivery
+      - name: data_employee
+      - name: data_office_workers
+      - name: data_order
+      - name: data_review
+      - name: data_service_workers
+      - name: data_truck
+
+
+
