@@ -32,4 +32,4 @@ WHERE
 
 ORDER BY
     j.order_date,
-    j.order_time;
+    j.order_time
