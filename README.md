@@ -12,7 +12,7 @@ The [case study]() explores a hypothetical scenario in which a small business is
 
 ## Data Architecture
 <p align="center">
-  <<img src="images/1.png" alt="drawing" width="250"/>
+  <img src="images/1.png" alt="drawing" width="250"/>
 </p>
 
 
