@@ -9,9 +9,12 @@ NB: Transformation used can be found [here](https://github.com/AfolabiAwonuga/da
 ## Case study
 The [case study]() explores a hypothetical scenario in which a small business is looking to leverage the power of analytics to gain insights and make data-driven decisions. With Fivetran, the business is able to set up and maintain data pipelines with minimal effort, as the platform is fully managed. This will allow the business to focus on their core competencies, rather than dedicating resources to managing and maintaining data pipelines. 
 
-### Data Architecture
-<!-- ![Alt text](images/2.png) -->
-<img src="images/1.png" alt="drawing" width="250"/>
+
+## Data Architecture
+<p align="center">
+  <<img src="images/1.png" alt="drawing" width="250"/>
+</p>
+
 
 
 ## Tech Stack

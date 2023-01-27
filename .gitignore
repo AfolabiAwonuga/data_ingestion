@@ -2,4 +2,4 @@ explore.ipynb
 target/
 dbt_packages/
 logs/
-.DS_Store
+.DSt_Store
