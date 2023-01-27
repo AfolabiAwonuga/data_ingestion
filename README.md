@@ -1,15 +1,23 @@
-Welcome to your new dbt project!
 
-### Using the starter project
+# Data Injestion with Fivetran
 
-Try running the following commands:
-- dbt run
-- dbt test
+This repo contains a dbt project which handles data transformations for a data injestion case study utilising [Fivetran](https://www.fivetran.com/).
+
+NB: Transformation used can be found [here](https://github.com/AfolabiAwonuga/data_ingestion/blob/main/models/my_dbt_transforms/o_d_dbt_view_model.sql)
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+## Case study
+The [case study]() explores a hypothetical scenario in which a small business is looking to leverage the power of analytics to gain insights and make data-driven decisions. With Fivetran, the business is able to set up and maintain data pipelines with minimal effort, as the platform is fully managed. This will allow the business to focus on their core competencies, rather than dedicating resources to managing and maintaining data pipelines. 
+
+### Data Architecture
+<!-- ![Alt text](images/2.png) -->
+<img src="images/1.png" alt="drawing" width="250"/>
+
+
+## Tech Stack
+
+- Google sheets 
+- Fivetran 
+- AWS Redshift 
+- Data build tool (Dbt)
+- Tableau 

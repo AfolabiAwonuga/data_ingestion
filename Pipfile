@@ -6,6 +6,14 @@ name = "pypi"
 [packages]
 dbt-core = "*"
 dbt-redshift = "*"
+notebook = "*"
+pandas = "*"
+numpy = "*"
+psycopg2-binary = "*"
+sqlalchemy = "*"
+getpass4 = "*"
+matplotlib = "*"
+seaborn = "*"
 
 [dev-packages]
 
